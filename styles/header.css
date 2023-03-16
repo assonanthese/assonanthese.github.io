@@ -1,0 +1,10 @@
+.logo{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    height: 64px;
+}
+
+.h2_left{
+    text-align: right;
+}
